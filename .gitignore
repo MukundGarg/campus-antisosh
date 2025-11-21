@@ -1,7 +1,12 @@
+# Python
 env/
 __pycache__/
 *.pyc
 *.sqlite3
 *.db
 .DS_Store
+
+# Node / Frontend
 node_modules/
+dist/
+build/
